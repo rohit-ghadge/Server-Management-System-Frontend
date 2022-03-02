@@ -1,5 +1,4 @@
-
-<h1 align="center">【﻿Ｓｅｒｖｅｒ　Ｍａｎａｇｅｍｅｎｔ　Ｓｙｓｔｅｍ】</h1>
+## ﻿Ｓｅｒｖｅｒ　Ｍａｎａｇｅｍｅｎｔ　Ｓｙｓｔｅｍ
 
 ## Application features:
 This project is a simple server Management System and Suports below functionality. 
