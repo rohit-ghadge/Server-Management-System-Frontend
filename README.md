@@ -1,7 +1,7 @@
 ## ﻿Ｓｅｒｖｅｒ　Ｍａｎａｇｅｍｅｎｔ　Ｓｙｓｔｅｍ
 
 ## Application features:
-This project is a simple server Management System and Suports below functionality. 
+This project is a simple server Management System and supports below functionality. 
 -  we can add new server 
 - show all server
 - only Up Server 
