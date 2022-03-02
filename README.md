@@ -1,27 +1,39 @@
-# Serverapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
+<h1 align="center">【﻿Ｓｅｒｖｅｒ　Ｍａｎａｇｅｍｅｎｔ　Ｓｙｓｔｅｍ】</h1>
 
-## Development server
+## Application features:
+This project is a simple server Management System and Suports below functionality. 
+-  we can add new server 
+- show all server
+- only Up Server 
+- only down server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Used technologies:
+- Spring Boot
+- Spring Data JPA
+- Mysql Database
+- Angular
 
-## Code scaffolding
+<h2 align="left"> Screenshots of the Project  </h1>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Server Management Dashboard
+![git](https://user-images.githubusercontent.com/57706022/156340653-cc62bc0a-6edc-454d-bf56-0457c5eb1588.png)
 
-## Build
+## Add New Server
+![git](https://user-images.githubusercontent.com/57706022/156338688-a590b62d-b243-49d4-a63c-26dd2838a7ce.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+##  Show only Down Server
+![git](https://user-images.githubusercontent.com/57706022/156338678-f5e5ed39-a0f3-4ae4-aa6b-4a1bbac52cfc.png)
 
-## Running unit tests
+## Show only Up Server
+![git](https://user-images.githubusercontent.com/57706022/156340666-de71ef5f-b02d-4769-be17-117f7ccd8a9b.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> <a href="https://www.w3.org/angular/" target="_blank" rel="noreferrer">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
